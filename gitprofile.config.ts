@@ -46,7 +46,7 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    medium: 'tsra0ne',
     dev: 'tsra0ne',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
@@ -83,7 +83,7 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
+    source: 'blog', // medium | dev
     username: 'tsra0ne', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
